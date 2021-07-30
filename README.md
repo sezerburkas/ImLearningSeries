@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome
 
 Welcome to the “I’m Learning” series. In this series I’m gonna share my learning progress in different subjects. This is not a tutorial. I’m just learning new stuff just all by myself.
 
