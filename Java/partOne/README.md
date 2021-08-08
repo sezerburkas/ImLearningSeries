@@ -1,6 +1,8 @@
 # helloWorld.java
 This is a program that prints "Hello World".
 
+    Hello World!
+
 # variables.java
 This is a program that prints predetermined variables.
 
